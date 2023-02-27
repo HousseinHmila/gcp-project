@@ -8,6 +8,8 @@ Let's get started!
 Let's make sure our machine is updated and install the Apache web server using the following commands: 
 sudo apt-get update
 sudo apt install apache2 
+![starting](Screenshot from 2023-02-27 23-31-51.png)
+
 
 # Step 2
 
@@ -33,6 +35,7 @@ sudo systemctl status apache2
 # Step 4
 
 We can test our web server by typing 127.0.0.1 in our browser, and everything should work correctly.
+![finishing](Screenshot from 2023-02-27 23-08-37.png)
 
 
 
