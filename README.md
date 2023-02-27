@@ -5,9 +5,9 @@ Let's get started!
 
 # Step 1
 
-Let's make sure our machine is updated and install the Apache web server using the following commands:__
-sudo apt-get update  
-sudo apt install apache2   
+Let's make sure our machine is updated and install the Apache web server using the following commands:  
+sudo apt-get update    
+sudo apt install apache2    
 ![Screenshot from 2023-02-27 23-31-51](https://user-images.githubusercontent.com/92945346/221703015-95c86fec-02ed-4ad4-938b-83fc16a7c2c6.png)  
 
 
